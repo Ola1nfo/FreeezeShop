@@ -7,6 +7,7 @@
 @import './blocks_css/line-green.css';
 @import './blocks_css/img-grey.css';
 @import './blocks_css/main.css';
+@import './blocks_css/product.css';
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
     margin: 0;
