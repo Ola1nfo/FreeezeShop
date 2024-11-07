@@ -1,0 +1,42 @@
+.baner{
+    margin: 0 auto;
+    width: 900px;
+    position: relative;
+}
+.kolo1{
+    background: #c8c10d;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    right: 470px;
+    top: 450px;
+}
+.kolo2{
+    background: #cb3362;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    right: 455px;
+    top: 445px;
+    filter: opacity(0.9);
+}
+.text1{
+    text-transform: uppercase;
+    position: absolute;
+    right: 490px;
+    top: 495px;
+    font-size: 25px;
+    color: white;
+    font-family: QuicksandB;
+}
+.text2{
+    text-transform: uppercase;
+    position: absolute;
+    right: 480px;
+    top: 520px;
+    font-size: 25px;
+    color: white;
+    font-family: QuicksandB;
+}
