@@ -1,0 +1,11 @@
+.line-green{
+    background: #c8c10d;
+    padding: 20px;
+}
+.line-green p{
+    text-transform: uppercase;
+    color: white;
+    font-family: LatoR;
+    font-size: 20px;
+    text-align: center;
+}

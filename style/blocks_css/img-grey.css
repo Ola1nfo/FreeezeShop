@@ -1,0 +1,9 @@
+.img-grey{
+    background: #eae7e8;
+}
+.img-grey img{
+    height: 200px;
+}
+.img-grey div{
+    text-align: center;
+}
