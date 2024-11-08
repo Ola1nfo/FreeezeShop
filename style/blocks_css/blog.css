@@ -1,0 +1,50 @@
+.blog .bloks{
+    margin: 100px 0px;
+}
+hr{
+    clear: both;
+    color: #7a6666;
+    width: 500px;
+}
+button{
+    text-align: center;
+    text-transform: uppercase;
+    width: 100px;
+}
+.blok1{
+    float: left;
+    width: 650px;
+}
+.blok1 img{
+    padding-top: 30px;
+    float: left;
+}
+.blok1 .text{
+    padding-top: 20px;
+    height: 300px;
+}
+.blok1 .text h4{
+    color: #cb3362;
+    font-size: 30px;
+    font-family: LatoB;
+}
+.blok1 .text p{
+    color: #7a6666;
+    font-family: LatoR;
+    line-height: 30px;
+}
+.blok1 .text .p1{
+    font-size: 16px;
+}
+.blok1 .text .p2{
+    font-size: 18px;
+    margin: 30px 0px;
+}
+.blok2{
+    float: left;
+    background: #eae7e8;
+    width: 250px;
+    height: 700px;
+    margin-top: 10px;
+}
+
